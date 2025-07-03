@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Thiago Viana</h1>
+---
 
-<!--
-**thiagov1337/thiagov1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mim
 
-Here are some ideas to get you started:
+- 🗓️ **Idade:** 24 anos  
+- 🎓 **Formação:** Graduado em Ciência da Computação 
+- 🧰 **Stack:** PHP, Js, Laravel, Sql, Bootstrap, tailwind, Vue3 e Jquery
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contato
+
+- [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/thiago-viana-b58410214/))
