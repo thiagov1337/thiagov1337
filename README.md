@@ -1,5 +1,5 @@
 ### 👨‍💻 Sobre mim
-- **Idade:** 24 anos  
+- **Idade:** 25 anos  
 - **Formação:** Graduado em Ciência da Computação
 - **Stack:** PHP, Solid, JS, Laravel, SQL, Livewire, Bootstrap, Tailwind, Vue3, Jquery e Alpine
 
